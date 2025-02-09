@@ -232,7 +232,7 @@ producer.PublishAsync(&PublisherMessage{
 	Data:  data,
 })
 ```
-For better understanding and implementation, refer to the coe base and test examples.
+For better understanding and implementation, refer to the code base and test examples.
 
 ## Future work 
 Package kept the **Consumer** and **Producer** interfaces fairly generic and can be implemented
